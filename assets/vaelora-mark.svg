@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Vaelora seventh bell emblem</title>
+  <circle cx="32" cy="32" r="29" fill="#0d1916" stroke="#c8a55b" stroke-width="1.5"/>
+  <path d="M32 13v8M28 14h8M21 43h22M24 42c2-3 3-8 3-14 0-4 2-7 5-7s5 3 5 7c0 6 1 11 3 14" fill="none" stroke="#d7ba72" stroke-width="2" stroke-linecap="round"/>
+  <path d="M26 42h12c0 4-2 7-6 7s-6-3-6-7Z" fill="#c8a55b" opacity=".85"/>
+  <circle cx="32" cy="34" r="2" fill="#d7ba72"/>
+</svg>
