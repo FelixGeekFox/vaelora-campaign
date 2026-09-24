@@ -1,0 +1,5 @@
+# Working files kept beside the site but not published with it:
+# the campaign document, and the raw image exports that are converted
+# into the optimised JPEGs in assets/.
+*.docx
+assets/ChatGPT Image *.png
